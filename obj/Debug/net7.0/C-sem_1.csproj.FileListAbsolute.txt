@@ -1,0 +1,15 @@
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\bin\Debug\net7.0\C-sem_1.exe
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\bin\Debug\net7.0\C-sem_1.deps.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\bin\Debug\net7.0\C-sem_1.runtimeconfig.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\bin\Debug\net7.0\C-sem_1.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\bin\Debug\net7.0\C-sem_1.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.csproj.AssemblyReference.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.AssemblyInfoInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.AssemblyInfo.cs
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.csproj.CoreCompileInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\refint\C-sem_1.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\C-sem_1.genruntimeconfig.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\C-sem_1\obj\Debug\net7.0\ref\C-sem_1.dll
